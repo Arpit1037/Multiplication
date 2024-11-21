@@ -1,0 +1,57 @@
+body {
+   font-family: 'Arial', sans-serif;
+   background-color: #f0f8ff;
+   background-image: url('https://imgs.search.brave.com/P1isctEDUU8-95_Ldxtakmod0gHX0hcIyeom5lMAZpE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzhkLzVh/LzIyLzhkNWEyMjkw/YmJiM2NiYzYxOGI3/NDJmODM4ZWFhYjli/LmpwZw');
+   background-size: cover;
+   background-position: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   margin: 0;
+}
+
+.game-container {
+   background-color: white;
+   text-align: center;
+   padding: 30px;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   width: 300px;
+}
+
+h1 {
+   color: #7d2a1b;
+}
+
+input {
+   padding: 10px;
+   margin-top: 10px;
+   font-size: 18px;
+}
+
+button {
+   padding: 10px 20px;
+   background-color:  #7d2a1b;
+   color: white;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+   margin-top: 10px;
+   
+}
+
+button:hover {
+   background-color: #e53e36;
+}
+
+#feedback {
+   margin-top: 15px;
+   font-size: 18px;
+   font-weight: bold;
+}
+
+#score {
+   font-size: 20px;
+   font-weight: bold;
+}
