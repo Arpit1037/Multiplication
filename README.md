@@ -3,8 +3,3 @@ the score will increse by 1 and for wrong answer it will decrease by 1 and when 
 Technologies Used: HTML,CSS and JAVASCRIPT.
 
 
-### CSS
-You can view the CSS code in the [`style.css`](style.css) file.
-
-### JavaScript
-You can view the JavaScript code in the [`script.js`](script.js) file.
